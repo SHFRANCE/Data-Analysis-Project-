@@ -48,3 +48,5 @@ The first part of making model predictions is to decide what we are going to pre
 After testing several machine learning models, we obtained a score of approximately 0.85 on the predicition of the _Average Cost for two_. We improved our model performance by 0.2. Our best model was a Random Forest model, when we used the parameters obtained with a Random Search Cross Validation. This the model we used to make our final predictions in the Flask API.
 
 Enjoy !
+
+PS: please comment the line 'import wandb' in the section 'Import libraries' 'Model Predictions' 
